@@ -1,0 +1,1 @@
+{"Records":[{"s3":{"bucket":{"name":"YOUR_BUCKET"},"object":{"key":"raw/tutor_data.csv"}}}]}
